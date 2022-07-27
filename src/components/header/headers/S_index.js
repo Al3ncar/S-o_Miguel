@@ -1,5 +1,5 @@
 import React from "react"
-import Nitro from "./img/nitro(1).jpg"
+import Nitro from "./img/nitroO.jpg"
 import * as S from "./styled"
 
 export default function App(){

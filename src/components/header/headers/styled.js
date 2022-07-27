@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import Fund from "./img/nitro(1).jpg"
+
 export const ContNav = styled.div`
     width:95%;
     margin:1.5% 2.5%;

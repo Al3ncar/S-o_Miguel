@@ -2,7 +2,7 @@ import React,{useState} from "react"
 import * as S from "./styled"
 
 import Ods1 from "./Card/ods1_index"
-import Ods2 from "./Card/ods2_index"
+import Ods2 from "./Card/ods2_index "
 import Ods3 from "./Card/ods3_index"
 import Ods4 from "./Card/ods4_index"
 import Ods5 from "./Card/ods5_index"
@@ -14,6 +14,7 @@ import IconOds4 from "./Card/imgsCard/ods4/ods4.png"
 import IconOds5 from "./Card/imgsCard/ods5/ods5.png"
 
 export default function Soluçao(){
+    
     const [ods1, setods1] = useState(false)
     const [ods2, setods2] = useState(false)
     const [ods3, setods3] = useState(false)
